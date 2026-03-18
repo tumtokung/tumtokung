@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Kwanchai 👋
+**Full Stack & Mobile Developer**
 
-<!--
-**tumtokung/tumtokung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Angular,  Laravel, .NET |
+| **Backend** | NestJs, ExpressJs, Laravel, .NET |
+| **Mobile** | React Native, Flutter, SwiftUI |
+| **Database/Cloud** | PostgreSQL, MongoDB, Firebase |
+
+---
+
+### 📊 Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/tumtokung&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/tumtokung&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contact
+[![LinkedIn](https://img.shields.io)](https://linkedin.com/in/kwanchai-limpapanasitti-a280921a0)
+[![Gmail](https://img.shields.io)](mailto:kwanchai.limp@gmail.com)
