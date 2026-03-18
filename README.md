@@ -16,11 +16,10 @@
 ---
 
 ### 📊 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/tumtokung&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/tumtokung&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tumtokung&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tumtokung&langs_count=8&theme=radical&layout=compact)
 
 ---
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io)](https://linkedin.com/in/kwanchai-limpapanasitti-a280921a0)
-[![Gmail](https://img.shields.io)](mailto:kwanchai.limp@gmail.com)
+[Email](mailto:kwanchai.limp@gmail.com) • [LinkedIn](https://linkedin.com/in/kwanchai-limpapanasitti-a280921a0)
